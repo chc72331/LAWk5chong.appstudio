@@ -1,5 +1,3 @@
-// This should occur after creating the whileBranch
-
 // Get a number input from a user
 numOfLoops = prompt('How many times do you want the loop to run?')
 
