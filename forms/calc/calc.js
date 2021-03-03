@@ -4,8 +4,8 @@ function calculate(num1, num2) {
 }
 
 // Get user input numbers
-userNum1 = prompt('Give me a number!')
-userNum2 = prompt('Give me another number!')
+userNum1 = Number(prompt('Give me a number!'))
+userNum2 = Number(prompt('Give me another number!'))
 
 // Take the parameters and run them through function
 let simpleMath = calculate(userNum1, userNum2)
