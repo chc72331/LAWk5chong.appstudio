@@ -2,4 +2,4 @@ let quoteString = 'Failure is simply the opportunity to begin again this time mo
   
 capsQuoteString = quoteString.toUpperCase
 
-console.log(`Upper case string is: ${capsQuoteString})
+console.log(`Upper case string is: ${capsQuoteString}`)
