@@ -41,7 +41,6 @@
             "calc",
             "calc.json"
           ]
-
         },
         {
           "!type": "External",
@@ -50,8 +49,6 @@
             "strings",
             "strings.json"
           ]
-=======
-
         }
       ],
       "configxml": null,
