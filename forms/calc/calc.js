@@ -8,5 +8,5 @@ userNum1 = prompt('Give me a number!')
 userNum2 = prompt('Give me another number!')
 
 // Take the parameters and run them through function
-let simpleMath = calculate(10, 3)
+let simpleMath = calculate(userNum1, userNum2)
 console.log(`The sum of ${userNum1} and ${userNum2} is ${simpleMath}.`)
