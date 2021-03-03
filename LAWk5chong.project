@@ -22,8 +22,8 @@
           "!type": "External",
           "file": [
             "forms",
-            "while",
-            "while.json"
+            "calc",
+            "calc.json"
           ]
         }
       ],
@@ -46,7 +46,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "Form1",
+      "firstform": "calc",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
