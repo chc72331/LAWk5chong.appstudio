@@ -22,8 +22,32 @@
           "!type": "External",
           "file": [
             "forms",
-            "string",
-            "string.json"
+            "while",
+            "while.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "for",
+            "for.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "calc",
+            "calc.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "strings",
+            "strings.json"
           ]
         }
       ],
@@ -46,7 +70,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "string",
+      "firstform": "while",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
