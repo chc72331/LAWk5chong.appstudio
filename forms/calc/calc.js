@@ -11,4 +11,3 @@ userNum2 = Number(prompt('Give me another number!'))
 let simpleMath = calculate(userNum1, userNum2)
 
 console.log(`The sum of ${userNum1} and ${userNum2} is ${simpleMath}.`)
-
